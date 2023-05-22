@@ -1,9 +1,9 @@
-Date,Week Number,User,Movies Uploaded,Products Added,EANs Added,Linked Pages
-2023-05-08,19,Lilou Recamier Prima,95,98,116,4616
-2023-05-08,19,Annick  Maas,89,162,123,1978
-2023-05-08,19,Betania Marquez,57,64,66,1304
-2023-05-09,19,Justine Gault,55,63,68,2127
-2023-05-08,19,Maria Jose Ayala,53,66,65,783
+Date,Week Number,User,Movies Uploaded,Products Added,EANs Added,Linked Pages,matchings
+2023-05-08,19,Lilou Recamier Prima,95,98,116,4616,8608
+2023-05-08,19,Annick  Maas,89,162,123,1978,62121
+2023-05-08,19,Betania Marquez,57,64,66,1304, 2121
+2023-05-09,19,Justine Gault,55,63,68,2127,2717
+2023-05-08,19,Maria Jose Ayala,53,66,65,783,2119
 2023-05-08,19,Anna Sigrid Therese,51,49,43,815
 2023-05-08,19,Luisa Garrido,46,47,23,832
 2023-05-08,19,Vasia Moraiti,40,41,29,108
