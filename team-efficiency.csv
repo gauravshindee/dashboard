@@ -1,25 +1,97 @@
-Date,Week Number,User,Movies Uploaded,Products Added,EANs Added,Linked Pages,matchings
-2023-05-08,19,Lilou Recamier Prima,95,98,116,4616,8608
-2023-05-08,19,Annick  Maas,89,162,123,1978,62121
-2023-05-08,19,Betania Marquez,57,64,66,1304, 2121
-2023-05-09,19,Justine Gault,55,63,68,2127,2717
-2023-05-08,19,Maria Jose Ayala,53,66,65,783,2119
-2023-05-08,19,Anna Sigrid Therese,51,49,43,815
-2023-05-08,19,Luisa Garrido,46,47,23,832
-2023-05-08,19,Vasia Moraiti,40,41,29,108
-2023-05-12,19,Gina Körn,39,78,39,397
-2023-05-08,19,Andrea Körn,30,352,321,1607
-2023-05-10,19,Gaurav Shinde,2,2,0,15
-2023-05-11,19,Eike Plutz,1,160,154,1104
-2023-05-14,20,Gaurav Shinde,5703,5703,0,169
-2023-05-15,20,Annick  Maas,54,88,51,262
-2023-05-15,20,Maria Jose Ayala,47,40,88,470
-2023-05-15,20,Anna Sigrid Therese,42,49,33,143
-2023-05-15,20,Luisa Garrido,36,37,40,999
-2023-05-14,20,Betania Marquez,31,33,78,2731
-2023-05-17,20,Gina Körn,23,51,28,321
-2023-05-15,20,Justine Gault,20,22,12,125
-2023-05-16,20,Andrea Körn,19,63,44,50
-2023-05-15,20,Vasia Moraiti,13,19,15,178
-2023-05-19,20,Enrique Ramos Boquera,3,3,0,0
-2023-05-19,20,Christian Ladewig,1,1,0,0
+Week Number,User,Movies Uploaded,Products Added,EANs Added,Linked Pages,matchings
+19,Lilou Recamier Prima,95,98,116,4616,8608
+19,Annick  Maas,89,162,123,1978,62121
+19,Betania Marquez,57,64,66,1304,2121
+19,Justine Gault,55,63,68,2127,2717
+19,Maria Jose Ayala,53,66,65,783,2119
+19,Anna Sigrid Therese,51,49,43,815,9450
+19,Luisa Garrido,46,47,23,832,2121
+19,Vasia Moraiti,40,41,29,108,3210
+19,Gina Körn,39,78,39,397,4299
+19,Andrea Körn,30,352,321,1607,5388
+19,Gaurav Shinde,2,2,0,15,6477
+19,Eike Plutz,1,160,154,1104,7566
+20,Gaurav Shinde,5703,5703,0,169,8655
+20,Annick  Maas,54,88,51,262,9744
+20,Maria Jose Ayala,47,40,88,470,1083
+20,Anna Sigrid Therese,42,49,33,143,11922
+20,Luisa Garrido,36,37,40,999,1301
+20,Betania Marquez,31,33,78,2731,1410
+20,Gina Körn,23,51,28,321,15189
+20,Justine Gault,20,22,12,125,16278
+20,Andrea Körn,19,63,44,50,1736
+20,Vasia Moraiti,13,19,15,178,18456
+20,Enrique Ramos Boquera,3,3,0,0,19545
+20,Christian Ladewig,1,1,0,0,2063
+18,Lilou Recamier Prima,95,98,116,4616,8608
+18,Annick  Maas,89,162,123,1978,6212
+18,Betania Marquez,57,64,66,1304,2121
+18,Justine Gault,55,63,68,2127,2717
+18,Maria Jose Ayala,53,66,65,783,2119
+18,Anna Sigrid Therese,51,49,43,815,2122
+18,Luisa Garrido,46,47,23,832,2125
+18,Vasia Moraiti,40,41,29,108,2128
+18,Gina Körn,39,78,39,397,2131
+18,Andrea Körn,30,352,321,1607,2134
+18,Gaurav Shinde,2,2,0,15,2137
+18,Eike Plutz,1,160,154,1104,2140
+17,Gaurav Shinde,5703,5703,0,169,2143
+17,Annick  Maas,54,88,51,262,2146
+17,Maria Jose Ayala,47,40,88,470,2149
+17,Anna Sigrid Therese,42,49,33,143,2152
+17,Luisa Garrido,36,37,40,999,2155
+17,Betania Marquez,31,33,78,2731,2158
+17,Gina Körn,23,51,28,321,2161
+17,Justine Gault,20,22,12,125,2164
+17,Andrea Körn,19,63,44,50,2167
+17,Vasia Moraiti,13,19,15,178,2170
+17,Enrique Ramos Boquera,3,3,0,0,2173
+17,Christian Ladewig,1,1,0,0,2176
+16,Lilou Recamier Prima,95,98,116,4616,2179
+16,Annick  Maas,89,162,123,1978,2182
+16,Betania Marquez,57,64,66,1304,2185
+16,Justine Gault,55,63,68,2127,2188
+16,Maria Jose Ayala,53,66,65,783,2191
+16,Anna Sigrid Therese,51,49,43,815,2194
+16,Luisa Garrido,46,47,23,832,3211
+16,Vasia Moraiti,40,41,29,108,2200
+16,Gina Körn,39,78,39,397,2203
+16,Andrea Körn,30,352,321,1607,2206
+16,Gaurav Shinde,2,2,0,15,2209
+16,Eike Plutz,1,160,154,1104,2212
+15,Gaurav Shinde,5703,5703,0,169,2215
+15,Annick  Maas,54,88,51,262,3218
+15,Maria Jose Ayala,47,40,88,470,2221
+15,Anna Sigrid Therese,42,49,33,143,6224
+15,Luisa Garrido,36,37,40,999,2227
+15,Betania Marquez,31,33,78,2731,2230
+15,Gina Körn,23,51,28,321,2233
+15,Justine Gault,20,22,12,125,2236
+15,Andrea Körn,19,63,44,50,2239
+15,Vasia Moraiti,13,19,15,178,4242
+15,Enrique Ramos Boquera,3,3,0,0,2245
+14,Christian Ladewig,1,1,0,0,2248
+14,Lilou Recamier Prima,95,98,116,4616,2251
+14,Annick  Maas,89,162,123,1978,2254
+14,Betania Marquez,57,64,66,1304,2257
+14,Justine Gault,55,63,68,2127,2260
+14,Maria Jose Ayala,53,66,65,783,2263
+14,Anna Sigrid Therese,51,49,43,815,2266
+14,Luisa Garrido,46,47,23,832,2269
+14,Vasia Moraiti,40,41,29,108,2272
+14,Gina Körn,39,78,39,397,9275
+14,Andrea Körn,30,352,321,1607,2278
+14,Gaurav Shinde,2,2,0,15,2281
+14,Eike Plutz,1,160,154,1104,2284
+13,Gaurav Shinde,5703,5703,0,169,2287
+13,Annick  Maas,54,88,51,262,2290
+13,Maria Jose Ayala,47,40,88,470,2293
+13,Anna Sigrid Therese,42,49,33,143,2296
+13,Luisa Garrido,36,37,40,999,6299
+13,Betania Marquez,31,33,78,2731,2302
+13,Gina Körn,23,51,28,321,2305
+13,Justine Gault,20,22,12,125,2308
+13,Andrea Körn,19,63,44,50,2311
+13,Vasia Moraiti,13,19,15,178,2314
+13,Enrique Ramos Boquera,3,3,0,0,2317
+13,Christian Ladewig,1,1,0,0,2320
